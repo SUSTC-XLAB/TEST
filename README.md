@@ -12,7 +12,7 @@
 ## 项目组成员
       某某  邮箱或者GITHUB ID   ， 项目分工 ，【时间-时间】
 ### 联系 ###
-    [NKXLAB](https://github.com/NKXLAB)
+[NKXLAB](https://github.com/NKXLAB)
     [南方科技大学-XLAB]QQ群：532614505
     
 ### Change log ###
