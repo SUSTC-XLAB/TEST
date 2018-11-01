@@ -1,12 +1,12 @@
-## 项目名称:
-## 项目简介
+## 项目名称（中英文）:
+## 项目简介（中英文）:
         【150字内】
         【具有自主版权的项目效果图 或者 实物图】
 
 ### 设计文档 ###
 [参见](https://github.com/SUSTC-XLAB/TEST//wiki)
 
-## 快速开始
+## 快速开始（中英文）:
      【项目资料的结构 和 项目资料、代码如何使用，至少指导用户完成一个实验】
 
 ## 项目组成员
@@ -19,8 +19,9 @@
 
 [Releases](https://github.com/SUSTC-XLAB/TEST//releases)
  
+[项目发展历程](https://github.com/SUSTC-XLAB/TEST/wiki/history) 
     
 ### 参考资料 ###
 
-[Releases](https://github.com/SUSTC-XLAB/TEST//releases)
+[reference](https://github.com/SUSTC-XLAB/TEST/wiki/reference)
  
