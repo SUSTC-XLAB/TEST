@@ -1,12 +1,14 @@
-## 项目名称（中英文）:
-## 项目简介（中英文）:
+（README必须是中英文版，WIKI可以是中文 或者 中英文 ）
+
+## 项目名称:
+## 项目简介:
         【150字内】
         【具有自主版权的项目效果图 或者 实物图】
 
 ### 设计文档 ###
 [参见](https://github.com/SUSTC-XLAB/TEST//wiki)
 
-## 快速开始（中英文）:
+## 快速开始:
      【项目资料的结构 和 项目资料、代码如何使用，至少指导用户完成一个实验】
 
 ## 项目组成员
@@ -25,3 +27,4 @@
 
 [reference](https://github.com/SUSTC-XLAB/TEST/wiki/reference)
  
+[learning](https://github.com/SUSTC-XLAB/TEST/wiki/learning)
